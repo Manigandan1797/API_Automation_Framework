@@ -1,4 +1,4 @@
-Feature: Currency Conversion
+Feature: Currency Conversion GTQ to GBP
 Background:
  * headers Authorization = {'X-CMC_PRO_API_KEY' : 'f57fed44-16c4-4f85-b353-7f4dd84fa9b6'}
  * header Accept = 'application/json'
